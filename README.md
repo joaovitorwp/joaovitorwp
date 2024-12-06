@@ -1,6 +1,6 @@
 # 💻 Bem-vindo ao meu GitHub!
 
-Olá! Sou um programador iniciante aprendendo C++, Python e PHP. Meu foco é desenvolver habilidades práticas e criar projetos. 🚀
+Olá! Sou um programador iniciante.
 
 ## 📊 Minhas Estatísticas
 <div align="center">
